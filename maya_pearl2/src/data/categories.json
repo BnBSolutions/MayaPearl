@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "necklaces",
+    "name": "Necklaces",
+    "description": "From delicate pendants to statement pieces",
+    "productCount": 8
+  },
+  {
+    "slug": "earrings",
+    "name": "Earrings",
+    "description": "Timeless studs and elegant drops",
+    "productCount": 7
+  },
+  {
+    "slug": "bracelets",
+    "name": "Bracelets",
+    "description": "Refined wrist adornments",
+    "productCount": 6
+  },
+  {
+    "slug": "rings",
+    "name": "Rings",
+    "description": "Elegant bands and solitaires",
+    "productCount": 6
+  },
+  {
+    "slug": "sets",
+    "name": "Jewelry Sets",
+    "description": "Curated collections",
+    "productCount": 1
+  }
+]

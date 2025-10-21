@@ -1,0 +1,226 @@
+[
+  {
+    "id": "pearl-classic-necklace",
+    "slug": "pearl-classic-necklace",
+    "title": "Classic Pearl Necklace",
+    "subtitle": "Timeless elegance",
+    "description": "A stunning strand of lustrous freshwater pearls, each carefully selected for its exceptional quality and radiance. This timeless piece features graduated pearls ranging from 7-9mm, secured with a delicate 14k gold-plated clasp adorned with a single zirconia accent.",
+    "category": "necklaces",
+    "price": { "amount": 289, "currency": "USD" },
+    "compareAtPrice": { "amount": 359, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Classic Pearl Necklace" },
+      { "src": "/placeholder.svg", "alt": "Classic Pearl Necklace Detail" }
+    ],
+    "badges": ["bestseller"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.8, "count": 124 },
+    "sku": "PRL-NKL-001"
+  },
+  {
+    "id": "pearl-drop-earrings",
+    "slug": "pearl-drop-earrings",
+    "title": "Pearl Drop Earrings",
+    "subtitle": "Graceful movement",
+    "description": "Elegant drop earrings featuring 8mm cultured freshwater pearls suspended from delicate gold-plated chains. The pearls catch light beautifully with every movement, creating an effortlessly chic look.",
+    "category": "earrings",
+    "price": { "amount": 165, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Pearl Drop Earrings" }
+    ],
+    "badges": ["new"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.7, "count": 56 },
+    "sku": "PRL-ERR-003"
+  },
+  {
+    "id": "pearl-tennis-bracelet",
+    "slug": "pearl-tennis-bracelet",
+    "title": "Pearl Tennis Bracelet",
+    "subtitle": "Refined luxury",
+    "description": "An exquisite tennis bracelet featuring perfectly matched 6mm freshwater pearls, each separated by delicate gold-plated links. The adjustable design ensures a comfortable fit from 6.5\" to 7.5\".",
+    "category": "bracelets",
+    "price": { "amount": 245, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Pearl Tennis Bracelet" }
+    ],
+    "badges": ["limited"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.9, "count": 42 },
+    "sku": "PRL-BRC-005"
+  },
+  {
+    "id": "pearl-stud-earrings",
+    "slug": "pearl-stud-earrings",
+    "title": "Classic Pearl Studs",
+    "subtitle": "Timeless staple",
+    "description": "Essential pearl stud earrings featuring 7mm perfectly round freshwater pearls with exceptional luster. Set in 14k gold-plated sterling silver with secure butterfly backs.",
+    "category": "earrings",
+    "price": { "amount": 98, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Classic Pearl Studs" }
+    ],
+    "badges": ["bestseller"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 5.0, "count": 234 },
+    "sku": "PRL-ERR-007"
+  },
+  {
+    "id": "pearl-pendant-necklace",
+    "slug": "pearl-pendant-necklace",
+    "title": "Single Pearl Pendant",
+    "subtitle": "Minimalist beauty",
+    "description": "A statement of simplicity—a single 10mm lustrous pearl suspended from a delicate 18-inch gold-plated chain. The pearl moves freely, catching light from every angle.",
+    "category": "necklaces",
+    "price": { "amount": 175, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Single Pearl Pendant" }
+    ],
+    "badges": ["new"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.8, "count": 67 },
+    "sku": "PRL-NKL-009"
+  },
+  {
+    "id": "pearl-ring",
+    "slug": "pearl-ring",
+    "title": "Solitaire Pearl Ring",
+    "subtitle": "Modern romance",
+    "description": "A contemporary design featuring an 8mm freshwater pearl set on a delicate open band. The pearl appears to float on the finger, creating a unique and modern aesthetic.",
+    "category": "rings",
+    "price": { "amount": 145, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Solitaire Pearl Ring" }
+    ],
+    "badges": ["new"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "sizes": ["5", "6", "7", "8", "9"],
+    "rating": { "value": 4.9, "count": 34 },
+    "sku": "PRL-RNG-012"
+  },
+  {
+    "id": "layered-pearl-necklace",
+    "slug": "layered-pearl-necklace",
+    "title": "Layered Pearl Necklace",
+    "subtitle": "Statement piece",
+    "description": "Three strands of graduated pearls create a dramatic yet elegant collar effect. Each strand features pearls of different sizes (5mm, 7mm, 9mm) for dimensional beauty.",
+    "category": "necklaces",
+    "price": { "amount": 425, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Layered Pearl Necklace" }
+    ],
+    "badges": ["limited"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.9, "count": 28 },
+    "sku": "PRL-NKL-013"
+  },
+  {
+    "id": "pearl-huggie-earrings",
+    "slug": "pearl-huggie-earrings",
+    "title": "Pearl Huggie Hoops",
+    "subtitle": "Contemporary charm",
+    "description": "Small huggie hoops (12mm) embellished with tiny pearls around the outer edge. These earrings combine the comfort of huggies with the elegance of pearls.",
+    "category": "earrings",
+    "price": { "amount": 138, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Pearl Huggie Hoops" }
+    ],
+    "badges": ["new"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.7, "count": 45 },
+    "sku": "PRL-ERR-015"
+  },
+  {
+    "id": "pearl-cuff-bracelet",
+    "slug": "pearl-cuff-bracelet",
+    "title": "Pearl Cuff Bracelet",
+    "subtitle": "Statement elegance",
+    "description": "An open cuff bracelet featuring five lustrous pearls evenly spaced along a polished gold-plated band. Adjustable design fits most wrist sizes comfortably.",
+    "category": "bracelets",
+    "price": { "amount": 198, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Pearl Cuff Bracelet" }
+    ],
+    "badges": ["new"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.8, "count": 31 },
+    "sku": "PRL-BRC-017"
+  },
+  {
+    "id": "baroque-pearl-necklace",
+    "slug": "baroque-pearl-necklace",
+    "title": "Baroque Pearl Necklace",
+    "subtitle": "Organic beauty",
+    "description": "Celebrate natural imperfection with this stunning strand of baroque pearls. Each irregularly shaped pearl (10-12mm) is unique, creating a one-of-a-kind piece.",
+    "category": "necklaces",
+    "price": { "amount": 345, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Baroque Pearl Necklace" }
+    ],
+    "badges": ["limited"],
+    "materials": ["Baroque Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.9, "count": 19 },
+    "sku": "PRL-NKL-019"
+  },
+  {
+    "id": "charm-bracelet",
+    "slug": "charm-bracelet",
+    "title": "Delicate Charm Bracelet",
+    "subtitle": "Personal story",
+    "description": "A fine chain bracelet with three removable charms: a pearl, a star, and a disc that can be engraved. Add more charms over time to create your unique narrative.",
+    "category": "bracelets",
+    "price": { "amount": 175, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Delicate Charm Bracelet" }
+    ],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#C6A664"],
+    "rating": { "value": 4.8, "count": 64 },
+    "sku": "GLD-BRC-020"
+  },
+  {
+    "id": "pearl-set",
+    "slug": "pearl-set",
+    "title": "Pearl Essentials Set",
+    "subtitle": "Complete collection",
+    "description": "A curated set featuring our classic pearl studs, single pearl pendant, and delicate pearl bracelet. The perfect foundation for any jewelry collection, beautifully packaged.",
+    "category": "sets",
+    "price": { "amount": 445, "currency": "USD" },
+    "compareAtPrice": { "amount": 518, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Pearl Essentials Set" }
+    ],
+    "badges": ["bestseller"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 5.0, "count": 87 },
+    "sku": "PRL-SET-022"
+  },
+  {
+    "id": "lariat-necklace",
+    "slug": "lariat-necklace",
+    "title": "Pearl Lariat Necklace",
+    "subtitle": "Versatile style",
+    "description": "An innovative Y-shaped necklace with a sliding pearl that allows for adjustable length and styling. Wear it long, short, or asymmetrical—the choice is yours.",
+    "category": "necklaces",
+    "price": { "amount": 225, "currency": "USD" },
+    "images": [
+      { "src": "/placeholder.svg", "alt": "Pearl Lariat Necklace" }
+    ],
+    "badges": ["new"],
+    "materials": ["Freshwater Pearl", "14k Gold-Plated Sterling Silver"],
+    "colors": ["#FFFFFF"],
+    "rating": { "value": 4.8, "count": 41 },
+    "sku": "PRL-NKL-024"
+  }
+]
